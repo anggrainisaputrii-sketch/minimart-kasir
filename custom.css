@@ -1,0 +1,193 @@
+/* ============================================================
+   MINIMART GEMAS — ROLE THEME CSS
+   Owner   : soft pink theme
+   Operator: lilac theme
+   ============================================================ */
+
+/* ============================================================
+   OWNER — soft pink
+   ============================================================ */
+
+/* Sidebar background */
+body.role-owner .main-sidebar,
+body.role-owner .main-sidebar .sidebar {
+  background-color: #3b1f2b !important;
+}
+
+/* Brand/logo bar */
+body.role-owner .brand-link {
+  background-color: #2e1620 !important;
+  border-bottom: 1px solid #5a2c3e !important;
+}
+
+body.role-owner .brand-text {
+  color: #f0cdd8 !important;
+}
+
+/* Nav links */
+body.role-owner .nav-sidebar .nav-link {
+  color: #f0cdd8 !important;
+}
+
+body.role-owner .nav-sidebar .nav-link:hover {
+  background-color: #4a2535 !important;
+  color: #ffffff !important;
+}
+
+body.role-owner .nav-sidebar .nav-link.active {
+  background-color: #f472b6 !important;
+  color: #ffffff !important;
+}
+
+/* Nav section headers */
+body.role-owner .nav-header {
+  color: #c49aaa !important;
+}
+
+/* User panel */
+body.role-owner .user-panel {
+  border-bottom: 1px solid #5a2c3e !important;
+}
+
+body.role-owner .user-panel .info a {
+  color: #f0cdd8 !important;
+}
+
+/* Content background */
+body.role-owner .content-wrapper {
+  background-color: #fdf2f7 !important;
+}
+
+/* Navbar top */
+body.role-owner .main-header.navbar {
+  background: linear-gradient(135deg, #f9a8c9, #f472b6) !important;
+  border-bottom: none !important;
+}
+
+body.role-owner .main-header .nav-link,
+body.role-owner .main-header .navbar-brand {
+  color: #ffffff !important;
+}
+
+/* Sidebar toggle button */
+body.role-owner .main-header .navbar-nav .nav-link {
+  color: #ffffff !important;
+}
+
+/* ============================================================
+   OPERATOR — lilac
+   ============================================================ */
+
+/* Sidebar background */
+body.role-operator .main-sidebar,
+body.role-operator .main-sidebar .sidebar {
+  background-color: #2b2040 !important;
+}
+
+/* Brand/logo bar */
+body.role-operator .brand-link {
+  background-color: #211730 !important;
+  border-bottom: 1px solid #3d2e5e !important;
+}
+
+body.role-operator .brand-text {
+  color: #d8d0f0 !important;
+}
+
+/* Nav links */
+body.role-operator .nav-sidebar .nav-link {
+  color: #d8d0f0 !important;
+}
+
+body.role-operator .nav-sidebar .nav-link:hover {
+  background-color: #332550 !important;
+  color: #ffffff !important;
+}
+
+body.role-operator .nav-sidebar .nav-link.active {
+  background-color: #a78bfa !important;
+  color: #ffffff !important;
+}
+
+/* Nav section headers */
+body.role-operator .nav-header {
+  color: #9e93c4 !important;
+}
+
+/* User panel */
+body.role-operator .user-panel {
+  border-bottom: 1px solid #3d2e5e !important;
+}
+
+body.role-operator .user-panel .info a {
+  color: #d8d0f0 !important;
+}
+
+/* Content background */
+body.role-operator .content-wrapper {
+  background-color: #f5f3ff !important;
+}
+
+/* Navbar top */
+body.role-operator .main-header.navbar {
+  background: linear-gradient(135deg, #c4b5fd, #a78bfa) !important;
+  border-bottom: none !important;
+}
+
+body.role-operator .main-header .nav-link,
+body.role-operator .main-header .navbar-brand {
+  color: #ffffff !important;
+}
+
+/* Sidebar toggle button */
+body.role-operator .main-header .navbar-nav .nav-link {
+  color: #ffffff !important;
+}
+/* Header card owner */
+.bg-owner {
+  background: linear-gradient(135deg, #f9a8c9, #f472b6) !important;
+}
+
+/* Sidebar owner */
+body.role-owner .main-sidebar.sidebar-dark-primary {
+  background-color: #3b1f2b !important;
+}
+
+body.role-owner .main-sidebar .brand-link {
+  background-color: #2e1620 !important;
+  color: #f0cdd8 !important;
+}
+
+body.role-owner .main-sidebar .nav-sidebar .nav-link {
+  color: #f0cdd8 !important;
+}
+
+body.role-owner .main-sidebar .nav-sidebar .nav-link:hover {
+  background-color: #4a2535 !important;
+}
+
+body.role-owner .main-sidebar .nav-header {
+  color: #c49aaa !important;
+}
+/* Kotak profit owner - putih dengan border pink */
+body.role-owner .card.bg-success,
+body.role-owner .bg-success {
+  background-color: #ffffff !important;
+  border: 2px solid #f472b6 !important;
+  border-radius: 10px !important;
+  box-shadow: 0 4px 12px rgba(244,114,182,.2) !important;
+}
+
+body.role-owner .card.bg-success h4,
+body.role-owner .card.bg-success p,
+body.role-owner .bg-success h4,
+body.role-owner .bg-success p {
+  color: #be185d !important;
+}
+body.role-owner .bg-success h4,
+body.role-owner .bg-success .h4,
+body.role-owner .bg-success h3,
+body.role-owner .bg-success h2,
+body.role-owner .bg-success span {
+  color: #be185d !important;
+}

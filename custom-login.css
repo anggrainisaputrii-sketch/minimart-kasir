@@ -1,0 +1,85 @@
+/* Background halaman */
+body.login-page {
+  background: linear-gradient(135deg, #0f0c29, #302b63, #24243e) !important;
+}
+
+/* Card login */
+.login-box .card {
+  background: rgba(255, 255, 255, 0.05) !important;
+  border: 1px solid rgba(255, 255, 255, 0.12) !important;
+  border-radius: 20px !important;
+}
+
+/* Header card (judul AdminLTE) */
+.card-outline.card-primary > .card-header {
+  background: transparent !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+.card-header a {
+  color: #fff !important;
+}
+
+/* Subtitle */
+.login-box-msg {
+  color: rgba(255, 255, 255, 0.45) !important;
+}
+
+/* Input field */
+.form-control {
+  background: rgba(255, 255, 255, 0.07) !important;
+  border: 1px solid rgba(255, 255, 255, 0.12) !important;
+  color: #fff !important;
+  border-radius: 10px 0 0 10px !important;
+}
+
+.form-control::placeholder {
+  color: rgba(255, 255, 255, 0.3) !important;
+}
+
+.form-control:focus {
+  border-color: #a78bfa !important;
+  box-shadow: none !important;
+}
+
+/* Icon di input */
+.input-group-text {
+  background: rgba(255, 255, 255, 0.07) !important;
+  border: 1px solid rgba(255, 255, 255, 0.12) !important;
+  color: rgba(255, 255, 255, 0.4) !important;
+  border-radius: 0 10px 10px 0 !important;
+}
+
+/* Tombol Sign In */
+.btn-primary {
+  background: linear-gradient(135deg, #a78bfa, #60a5fa) !important;
+  border: none !important;
+  border-radius: 10px !important;
+}
+
+.btn-primary:hover {
+  opacity: 0.85 !important;
+}
+
+/* Tombol Facebook */
+.btn-block.btn-primary {
+  border-radius: 10px !important;
+}
+
+/* Tombol Google */
+.btn-danger {
+  background: rgba(255, 255, 255, 0.07) !important;
+  border: 1px solid rgba(255, 255, 255, 0.15) !important;
+  color: rgba(255, 255, 255, 0.7) !important;
+  border-radius: 10px !important;
+}
+
+/* Label Remember Me */
+.icheck-primary label {
+  color: rgba(255, 255, 255, 0.55) !important;
+}
+
+/* Link bawah */
+.mb-1 a, .mb-0 a {
+  color: #a78bfa !important;
+}
